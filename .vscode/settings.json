@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "using_strspn.C": "cpp",
+        "printing_string.C": "cpp",
+        "Precisions.C": "cpp",
+        "right_left_justification.C": "cpp",
+        "using_#flag.C": "cpp",
+        "fun_Strcpy.C": "cpp"
+    }
+}
